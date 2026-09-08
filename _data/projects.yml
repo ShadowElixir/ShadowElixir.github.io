@@ -30,5 +30,5 @@
   demo: https://github.com/ShadowElixir/pacman-apt
 
 - name: Better Powershell Profile
-  descr: "A powershell profile based on Chris Titus' profile."
+  descr: "A better powershell profile based on Chris Titus' profile."
   demo: https://github.com/ShadowElixir/better-powershell-profile
