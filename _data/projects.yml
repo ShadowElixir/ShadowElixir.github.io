@@ -29,6 +29,10 @@
   descr: "Pacman and Apt for Windows."
   demo: https://github.com/ShadowElixir/pacman-apt
 
+- name: And More!
+  descr: "Make sure to check out my other projects on GitHub!"
+  demo: https://github.com/ShadowElixir
+
 - name: Better Powershell Profile
   descr: "A better powershell profile based on Chris Titus' profile."
   demo: https://github.com/ShadowElixir/better-powershell-profile
